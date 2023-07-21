@@ -1,5 +1,10 @@
 # About Me
 <!-- <img src="./自画像2.png" width="100px">   -->
+- Kentaro Kawamura | 河村 健太郎
+- M.S. in Informatics
+- Tokyo Denki Univerity
+- Visual Perception & Recognition Laboratory by [Yuko Ozasa](https://researchmap.jp/yuko.ozasa?lang=en)
+
 # Research Interest
 Key workds
 - Computer Vision
