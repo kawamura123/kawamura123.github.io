@@ -4,6 +4,7 @@
 - M.S. in Informatics
 - Tokyo Denki Univerity
 - Visual Perception & Recognition Laboratory by [Yuko Ozasa](https://researchmap.jp/yuko.ozasa?lang=en)
+- https://033lab.org/
 
 # Research Interest
 Key workds
