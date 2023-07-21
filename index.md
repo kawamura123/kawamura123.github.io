@@ -3,10 +3,15 @@
 
 
 Kentaro Kawamura  (河村 健太郎)
+
 M.S. in Informatics
+
 Tokyo Denki Univerity
+
 Visual Perception & Recognition Laboratory by [Yuko Ozasa](https://researchmap.jp/yuko.ozasa?lang=en)
+
 https://033lab.org/
+
 **Links**: [Github](https://github.com/kawamura123)
 
 # Research Interest
